@@ -1,9 +1,18 @@
-Given 3 int values, a b c, return their sum. However, if any of the values is a teen -- in the range 13...19 inclusive -- then that value counts as 0, except 15 and 16 do not count as a teen. The input is passed as command line arguments and output is to be printed on screen
-=====================================
-
-
 STEPS to run code on local
 ==========================
+1. install git ( https://git-scm.com/book/en/v2/Getting-Started-Installing-Git )
+2. git clone https://github.com/Nitansh/TVARIT_TASK_PYTHON.git
+3. install python ( https://docs.python.org/3/using/windows.html )
+4. install pip ( https://pip.pypa.io/en/stable/installation/ )
+5. install virtualenv ( https://docs.python.org/3/library/venv.html )
+6. Create a virtual environment
+`python3 -m venv env`
+7. Activate virtual environment
+`source env/bin/activate`
+8. install dependencies
+`pip install -r requirements.txt`
+
+Happy coding !!!
 
 
 RUNNING CODE
